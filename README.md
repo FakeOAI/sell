@@ -12,9 +12,9 @@
   - 价格：200元
   - 难易程度：傻瓜式操作，安装依赖自动下载
 
-## ArkoseLabs协议过盾源代码
-  - 语言：`Python`
-  - 内容：通过协议过🛡️的方式获取 `ArkoseToken` 进行**gpt4等模型**的调用
+## ArkoseToken、ProofofworkToken、TurnstileToken脚本获取
+  - 语言：`JavaScript`
+  - 内容：通过js脚本计算代理以获取对话前校验的三个token，才可以进行**gpt4等模型**的调用
   - 价格：`QQ: 1727283040` 私聊
   - 难易程度：一般
 
