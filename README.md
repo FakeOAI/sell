@@ -6,20 +6,7 @@
 > 
 > 不支持退款！不支持退款！不支持退款！
 
-## 一键下载ChaGPT官网Remix项目的所有静态资源
-  - 语言：`JavaScript`
-  - 内容：下载所有js、css、字体以及图片等资源、还有所有官网所有页面的html服务端模版
-  - 价格：200元
-  - 难易程度：傻瓜式操作，安装依赖自动下载
-
-## FakeOAI网关源代码
-  - 语言：`Python(或Go)`、`JavaScript`
-  - 内容：绕CF代理ChatGPT官网所有接口、对话降智问题以及自动化登录、arkose、pow、turnstile对话三个token的伪造等的所有脚本，规避OpenAI风控的种种方案、独享网关、稳如老狗
-  - 价格：`QQ: 1727283040` 私聊
-  - 难易程度：一般
-
 ## FakeOAI官网所有服务的源代码
-  - 语言：`Python`、`Nginx`、`React`、`Nextjs`、`TypeScript`
-  - 内容：包含所有支付配置、后台管理系统、官网镜像、还有以上所有脚本的源代码（网关、静态资源爬取脚本等）
+  - 语言：`Go`、`React`、`Nextjs`、`TypeScript`、`JavaScript`
+  - 内容：包含所有支付配置、后台管理系统、官网镜像、静态资源爬取脚本、ChatGPT登陆插件等源代码，程序内置网关，也可以切换别的可用网关（如果有的话），后续支持Sora、Claude、Midjourney共享池～～～
   - 价格：`QQ: 1727283040` 私聊
-  - 难易程度：一般般
